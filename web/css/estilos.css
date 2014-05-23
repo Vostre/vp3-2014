@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24/03/2014, 17:49:58
+    Author     : ajunior
+*/
+
+/*#caixa{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#header{
+    background-color: #FFEE00;
+    width: 100%;
+    height: 8%;
+    border-bottom: 2px solid #000066;
+}*/
+
+.navbar-nav a{
+    color: blue;
+}
+
+.navbar-nav li{
+    text-align: center;
+}
+
+/*.navbar-brand{
+    line-height: 40px;
+}
+
+*/.navbar-form{
+    padding: 0 15px;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#header{
+    border-bottom: blue solid 2px;
+}
+
+body {
+  padding-top: 60px;
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
+
+input.form-control,input.form-control:focus {
+    box-shadow: none;
+   -webkit-box-shadow: none;
+   -moz-box-shadow: none;
+   -moz-transition: none;
+   -webkit-transition: none;
+}

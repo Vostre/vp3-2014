@@ -1,0 +1,7 @@
+parameters:
+#    mapa_site.example.class: Mapa\Bundle\SiteBundle\Example
+
+services:
+#    mapa_site.example:
+#        class: %mapa_site.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

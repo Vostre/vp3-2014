@@ -1,0 +1,4 @@
+mapa_site:
+    resource: "@MapaSiteBundle/Resources/config/routing.yml"
+    prefix:   /
+
