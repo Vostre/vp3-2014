@@ -1,0 +1,7 @@
+parameters:
+#    religio_main.example.class: Religio\Site\MainBundle\Example
+
+services:
+#    religio_main.example:
+#        class: %religio_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

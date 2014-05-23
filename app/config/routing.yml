@@ -1,3 +1,7 @@
+religio_main:
+    resource: "@ReligioMainBundle/Resources/config/routing.yml"
+    prefix:   /
+
 mapa_site:
     resource: "@MapaSiteBundle/Resources/config/routing.yml"
     prefix:   /
